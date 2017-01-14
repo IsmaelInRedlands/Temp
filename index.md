@@ -1,5 +1,7 @@
 Open [Survey123 Public Survey](http://www.esri.com)
 
+Open [Survey123 Public Survey](arcgis-survey123://)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/IsmaelInRedlands/Temp/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
