@@ -1,6 +1,3 @@
-Open [Survey123 Public Survey](http://www.esri.com)
-
-Open [Survey123 Public Survey](arcgis-survey123://)
 
 ## Welcome to GitHub Pages
 
